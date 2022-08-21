@@ -1,5 +1,5 @@
 # Precily
 
 ### To run the App
-#### While in the root directory, open terminal and enter "npm i" and then "nodemon index.js"
-#### In a separate terminal, go to the client folder and enter "npm i" and then "npm start"
+#### Open terminal in client folder and enter "npm i" and "npm start" to start the React Frontend
+#### Open terminal in server folder and enter "npm i" and "nodemon" to start the Node.js Backend
